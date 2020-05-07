@@ -1,0 +1,2 @@
+SELECT * FROM getmýsafýr
+ORDER BY MID ASC
